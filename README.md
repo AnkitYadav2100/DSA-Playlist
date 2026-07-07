@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0202-happy-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
