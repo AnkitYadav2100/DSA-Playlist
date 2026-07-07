@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0202-happy-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
