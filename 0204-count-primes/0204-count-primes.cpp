@@ -7,7 +7,7 @@ public:
         temp[0] = temp[1] = 0;
         for(int i=2; i*i<n; i++){
             if(temp[i]){
-                for(int j=2*i; j<n; j+=i){
+                for(int j=i*i; j<n; j+=i){
                     temp[j] = 0;
                 }
             }
