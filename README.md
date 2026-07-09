@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2614-prime-in-diagonal](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2614-prime-in-diagonal) |
 ## Greedy
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2614-prime-in-diagonal](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2614-prime-in-diagonal) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -57,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2614-prime-in-diagonal) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
