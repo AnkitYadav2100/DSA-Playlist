@@ -32,6 +32,7 @@ public:
             if(isPrime(nums[j]) && last == -1){
                 last = j;
             }
+            if(first != -1 && last != -1) break;
             i++;
             j--;
         }
