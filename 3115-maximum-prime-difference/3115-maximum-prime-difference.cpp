@@ -15,15 +15,28 @@ public:
         int n = nums.size();
         int maxIdx = -1;
         int minIdx = -1;
-        for(int i=0; i<n; i++){
-            if(isPrime(nums[i])){
-                if(maxIdx == -1){
-                    maxIdx = i;
-                }
-                minIdx = i;
+        // for(int i=0; i<n; i++){
+        //     if(isPrime(nums[i])){
+        //         if(maxIdx == -1){
+        //             maxIdx = i;
+        //         }
+        //         minIdx = i;
+        //     }
+        // }
+        int i = 0, j = n-1;
+        int first = -1, last = -1;
+        while(i<n){
+            if(isPrime(nums[i]) && first == -1){
+                first = i;
             }
+            if(isPrime(nums[j]) && last == -1){
+                last = j;
+            }
+            i++;
+            j--;
         }
        
-        return abs(maxIdx-minIdx);
+        // return abs(maxIdx-minIdx);
+        return abs(first-last);
     }
 };
