@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0056-merge-intervals) |
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
+| [0477-total-hamming-distance](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0477-total-hamming-distance) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
+| [0477-total-hamming-distance](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0477-total-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2427-number-of-common-factors) |
@@ -78,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0477-total-hamming-distance](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0477-total-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
