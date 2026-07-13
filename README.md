@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2427-number-of-common-factors) |
 ## Number Theory
