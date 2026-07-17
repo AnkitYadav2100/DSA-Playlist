@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3115-maximum-prime-difference) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3115-maximum-prime-difference) |
