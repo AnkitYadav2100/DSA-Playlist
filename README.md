@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0056-merge-intervals) |
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
 | [0477-total-hamming-distance](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0477-total-hamming-distance) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
