@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0168-excel-sheet-column-title) |
 | [0434-number-of-segments-in-a-string](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0434-number-of-segments-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
 | [0477-total-hamming-distance](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0477-total-hamming-distance) |
