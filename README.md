@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
 | [0477-total-hamming-distance](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1037-valid-boomerang) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
 | [0477-total-hamming-distance](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1037-valid-boomerang) |
 | [1486-xor-operation-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1952-three-divisors) |
@@ -123,4 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
