@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0168-excel-sheet-column-title) |
 | [0434-number-of-segments-in-a-string](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0434-number-of-segments-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0202-happy-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
