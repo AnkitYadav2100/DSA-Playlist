@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3115-maximum-prime-difference) |
+| [3731-find-missing-elements](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0202-happy-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2395-find-subarrays-with-equal-sum) |
+| [3731-find-missing-elements](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
