@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3115-maximum-prime-difference) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
