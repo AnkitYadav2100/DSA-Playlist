@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0056-merge-intervals) |
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0877-stone-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0477-total-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1486-xor-operation-in-an-array) |
 ## Geometry
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,8 +174,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0206-reverse-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
