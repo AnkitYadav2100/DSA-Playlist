@@ -1,16 +1,6 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int n = nums.size();
-        // sort(nums.begin(),nums.end());
-        // for(int i=1; i<n; i++){
-        //     if(nums[i] == nums[i-1]){
-        //         return nums[i];
-        //         break;
-        //     }
-        // }
-        // return 0;
-
         for(int num : nums){
             int idx = abs(num);
             if(nums[idx] < 0){
@@ -19,6 +9,5 @@ public:
             nums[idx] = -nums[idx];
         }
         return 0;
-
     }
 };
