@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0056-merge-intervals) |
 | [0204-count-primes](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0287-find-the-duplicate-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0168-excel-sheet-column-title) |
 | [0434-number-of-segments-in-a-string](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0434-number-of-segments-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0202-happy-number) |
