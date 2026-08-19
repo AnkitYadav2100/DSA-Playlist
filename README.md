@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0242-valid-anagram) |
 | [0434-number-of-segments-in-a-string](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0434-number-of-segments-in-a-string) |
+| [1154-day-of-the-year](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1037-valid-boomerang) |
+| [1154-day-of-the-year](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1154-day-of-the-year) |
 | [1486-xor-operation-in-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/1979-find-greatest-common-divisor-of-array) |
