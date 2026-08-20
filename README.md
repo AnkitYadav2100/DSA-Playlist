@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2614-prime-in-diagonal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3115-maximum-prime-difference) |
 | [3731-find-missing-elements](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitYadav2100/DSA-Playlist/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
